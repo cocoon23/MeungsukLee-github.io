@@ -1,2 +1,2 @@
-# MeungsukLee-github.io
+# MeungsukLee.github.io
 Personal Record
